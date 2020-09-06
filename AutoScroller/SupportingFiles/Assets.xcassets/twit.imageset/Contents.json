@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "twit.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
